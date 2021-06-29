@@ -1,2 +1,3 @@
-commit file 1
+commit file 2
+
 sample file text 2 

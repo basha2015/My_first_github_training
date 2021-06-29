@@ -1,3 +1,6 @@
+<<<<<<< HEAD
 commit file 2
 commit file 3
+=======
+>>>>>>> parent of 4da5927 (commit sample 1)
 sample file text 1 

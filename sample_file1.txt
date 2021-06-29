@@ -1,1 +1,2 @@
+commit file 2
 sample file text 1 

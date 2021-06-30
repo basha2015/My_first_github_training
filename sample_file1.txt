@@ -1,2 +1,4 @@
 commit file 1
 sample file text 1 
+this is comparision lecture
+this is comparision lecture , compare 2 

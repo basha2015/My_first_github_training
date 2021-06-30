@@ -1,3 +1,4 @@
 commit file 1
 sample file text 2 
 this is comparision lecture , compare 3 
+this is stash lecture in file 2

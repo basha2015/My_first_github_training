@@ -1,3 +1,4 @@
+this is change in linux
 commit file 1
 sample file text 1 
 this is comparision lecture
